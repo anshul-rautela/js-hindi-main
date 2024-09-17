@@ -20,6 +20,4 @@ console.log(score)  //nan
 Bollean conversion
 "" => false
 "afjasf" => true (when string is full it gives true)
-
-
 */ 
