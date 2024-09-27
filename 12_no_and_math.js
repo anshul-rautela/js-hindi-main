@@ -51,4 +51,4 @@ const max =20;
 
 console.log(Math.floor(Math.random()*(max-min+1)+min))
 
-/*formula for giving range b/w min. and max. and geting an integer val.
+/*formula for giving range b/w min. and max. and geting an integer val*/
