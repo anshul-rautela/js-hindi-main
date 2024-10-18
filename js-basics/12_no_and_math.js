@@ -1,7 +1,7 @@
 const score =100;
 console.log(score)
 
-const balance = new Number(100)      //we are already giving its type.
+const balance = new Number(100);   //we are already giving its type.
 
 console.log(balance)
 console.log(typeof balance)
